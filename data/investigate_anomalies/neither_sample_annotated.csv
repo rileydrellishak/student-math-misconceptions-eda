@@ -1,0 +1,121 @@
+QuestionId,QuestionText,MC_Answer,StudentExplanation,Category,my thoughts,my categorization
+31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),it is also in its simplest form because you can no longer simplify it.,False_Neither,"student explanation is incorrect, it is not in simplest form since 9 is a multiple of 3",
+31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),BECAUSE 3 OUT OUT OF 8 ARE SHAED,False_Neither,conceptual error of what simplest form is,
+31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),Because you count how many there are and then you find out who isn't shaded.,False_Neither,conceptual error of what simplest form is,
+31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),i looked at the shapes that are not shaded and counted the other triangles and there were 9.,False_Neither,conceptual error of what simplest form is,
+31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{9} \),I counted the amount of triangles and then worked out how much was not shaded.,False_Neither,conceptual error of what simplest form is,
+31774,Calculate \( \frac{1}{2} \div 6 \),\( \frac{6}{2} \),"i think it's because we've been learning about these things, amd i have an answer.",False_Neither,n/a explanation,
+31774,Calculate \( \frac{1}{2} \div 6 \),\( \frac{1}{3} \),i'm working it out with the bus stop.,False_Neither,n/a explanation,
+31774,Calculate \( \frac{1}{2} \div 6 \),\( 3 \),"i'm sure it's b, but i can't remember how to explain it.",False_Neither,n/a explanation,
+31774,Calculate \( \frac{1}{2} \div 6 \),\( 3 \),If we flip it over we would get 3 if we keep changing.,False_Neither,"flipped too many things when trying to multiply by the reciprocal. when dividing a fraction by a whole number or another fraction, it is the same as multiplying the dividend by the reciprocal of the divisor",
+31774,Calculate \( \frac{1}{2} \div 6 \),\( \frac{1}{3} \),"i think this because,1/2divided by 6=6/3 divide both by 3=3/1,but switch it around would equal 1/3.",False_Neither,"one half divided by 6 is not the same as 6 divided in half, misconception in commutative property",
+31777,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?",\( 60 \),i found half of it and then halfled it again and finally i had this answer.,False_Neither,"half of 120 is 60, half of half would be a quarter of 120 which is 30. 1/4 is not quite 1/5",
+31777,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?",\( 60 \),"120 divided by 3 is 30. to get it out of 5 i doubled it to get 2 more, which is 60.",False_Neither,"should have multipled by 3 then divided by 5, procedural error",
+31777,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?",\( 60 \),"i converted 3/5 and then i did it as a percent, which was 60%. then i took 60 off of 120 which gave me 60.",False_Neither,conceptual error - 60% of 120 is not 60 (that's actually 50%),
+31777,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?",\( 60 \),Because you can divide 60 by 5 evenly 60 divide by 5 = 12,False_Neither,a true statement that arises from simplifying 3x120 then divide by 5. ,
+31777,"A box contains \( 120 \) counters. The counters are red or blue. \( \frac{3}{5} \) of the counters are red.
+How many red counters are there?",\( 48 \),I think this because there are more red counters but just andd it will be under half bu just so I went to the closest one.,False_Neither,"Correct in saying there are more red counters, but incorrect in stating that 3/5 is less than 1/2, but did correctly identify that 48 is less than half of 120",
+31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,\( 9 \),because it wouldd be 18 so you divide by 3.,False_Neither,noticed that 9 and 15 are both divisible by 3,
+31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,\( 9 \),The numerator and denominator must be the same.,False_Neither,they must be the same to add and subtract (simply),
+31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,\( 3 \),"it is because well 10+5=15 and 3+5. therefore, the answer is 7.",False_Neither,conceptual error in how to compare fractions and adding (3+5 is not 7),
+31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,\( 9 \),Thr denominator does not have to be the same.,False_Neither,"a true statement, but does not really apply here",
+31778,\( \frac{A}{10}=\frac{9}{15} \) What is the value of \( A \) ?,\( 9 \),Because they are the same fraction.,False_Neither,conceptual error - a 10th is not the same size as a 15th in terms of fractions,
+32829,\( 2 y=24 \) What is the value of \( y \) ?,\( 4 \),i just used my comb sens,False_Neither,Conceptual error - replacing the letter y with a literal 4 to get 24=24,
+32829,\( 2 y=24 \) What is the value of \( y \) ?,\( 4 \),i think it is this not sure,False_Neither,Conceptual error - replacing the letter y with a literal 4 to get 24=24,
+32829,\( 2 y=24 \) What is the value of \( y \) ?,\( 48 \),24 divided by 12 equals 12. The answer will be 12.,False_Neither,"24 minus 12 is 12, but 24 divided by 2 is 12.",
+32829,\( 2 y=24 \) What is the value of \( y \) ?,\( 4 \),"24 is also thr same number as 24, so it has to be equal.",False_Neither,Conceptual error - replacing the letter y with a literal 4 to get 24=24,
+32829,\( 2 y=24 \) What is the value of \( y \) ?,\( 4 \),because nothing else would equal 24 with no sum,False_Neither,Conceptual error - replacing the letter y with a literal 4 to get 24=24,
+32833,Calculate \( \frac{2}{3} \times 5 \),\( \frac{2}{15} \),5 turned into 5 / 1 then i multiplied bothh together.,False_Neither,Cross multipled when they should not have,
+32833,Calculate \( \frac{2}{3} \times 5 \),\( \frac{10}{15} \),"when you divide the number on the bottom by 5, it will be five times larger than the numbers on top.",False_Neither,multplied the numerator and denominator by 5 instead of just the numerator,
+32833,Calculate \( \frac{2}{3} \times 5 \),\( \frac{10}{15} \),im not too sure so i went with 5 times 2,False_Neither,multplied the numerator and denominator by 5 instead of just the numerator,
+32833,Calculate \( \frac{2}{3} \times 5 \),\( \frac{2}{15} \),i don’t know how to explane,False_Neither,multiplied just the denominator by 5 instead of the numerator,
+32833,Calculate \( \frac{2}{3} \times 5 \),\( 5 \frac{2}{3} \),reason why i think it is because if you have five times it by five so 23 would be it would be  5/13suppose you’re busy just times in it right number,False_Neither,conceptual error in 5*5 being 23,
+32835,Which number is the greatest?,\( 6.079 \),"i think thus is 6.07 because if you look at the outhrs it's 6.0001 that is the lowest. Also, 6 by itself and 6.2 are also very small",False_Neither,"Conceptual error - hundredths are not larger than tenths. though 7 is a greater number than 2, 7 hundreths is smaller than 2 tenths",
+32835,Which number is the greatest?,\( 6.079 \),because the 100ths and the 10ths are larger,False_Neither,Conceptual error - hundredths are not larger than tenths,
+32835,Which number is the greatest?,\( 6.079 \),"I think c because if you look at the 100ths it is 9. And when you go to see the 10th's, it'll be 7.",False_Neither,Conceptual error - hundredths are not larger than tenths,
+32835,Which number is the greatest?,\( 6.0001 \),i think d because it has more thousandths than any of the other numbers.,False_Neither,Conceptual error - hundredths and thousandths are not larger than tenths. seeing more numbers after the decimal does not always mean it's greater,
+32835,Which number is the greatest?,\( 6 \),because it is bigger then all the decimal numbers,False_Neither,conceptual error - 6.000 is the smallest,
+33471,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,\( 9 \),because theres only 3/8 and itss almost half,False_Neither,procedural error in trying to identify the number of yellow balls. true in stating that 3/8 of 24 is 9. should have either done 24-9 to find the number of green balls or done 5/8 times 24,
+33471,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,\( 9 \),divide my the bottom and times by the top,False_Neither,procedural error in trying to identify the number of yellow balls. true in stating that 3/8 of 24 is 9. should have either done 24-9 to find the number of green balls or done 5/8 times 24,
+33471,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,\( 9 \),"I don't know how to explainn that,",False_Neither,procedural error in trying to identify the number of yellow balls. true in stating that 3/8 of 24 is 9. should have either done 24-9 to find the number of green balls or done 5/8 times 24,
+33471,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,\( 9 \),i think this because you divide by the bottom and times by the top,False_Neither,procedural error in trying to identify the number of yellow balls. true in stating that 3/8 of 24 is 9. should have either done 24-9 to find the number of green balls or done 5/8 times 24,
+33471,A bag contains \( 24 \) yellow and green balls. \( \frac{3}{8} \) of the balls are yellow. How many of the balls are green?,\( 3 \),i think because i use the bar method and that what i got and i divided 24 by 8,False_Neither,"conceptual error - true in staing that 24 divided by 8 is 3, but also should have kept going to multiply by the numerator (3) to get the number of yellow balls, then subtract that from 24 to find number of green balls",
+33472,\( \frac{1}{3}+\frac{2}{5}= \),\( \frac{3}{8} \),I dont know because it is I guess I do mot know.,False_Neither,n/a explanation,
+33472,\( \frac{1}{3}+\frac{2}{5}= \),\( \frac{11}{30} \),i know think this because you need to change the denominators are different so you change the denominators to 15 and you do 2x3=6 and 1x5=5 and then they are your numaratores,False_Neither,conceptual error - added the denominators together instead of leaving them as 15! super valid explanation though for the numerators,
+33472,\( \frac{1}{3}+\frac{2}{5}= \),\( \frac{3}{8} \),add 1 and the 2 first then do the rest.,False_Neither,"conceptual error - cannot add straight across numerators because the denominators are different, and you should not add straight across the denominators",
+33472,\( \frac{1}{3}+\frac{2}{5}= \),\( \frac{3}{15} \),i think this because you have to multiply the denominator and add the nominator to add fractions.,False_Neither,conceptual error - did not update the numerators to reflect the new denominator of 15,
+33472,\( \frac{1}{3}+\frac{2}{5}= \),\( \frac{3}{15} \),because you find the common denominator,False_Neither,conceptual error - did not update the numerators to reflect the new denominator of 15,
+33474,"Sally has \( \frac{2}{3} \) of a whole cake in the fridge. Robert eats \( \frac{1}{3} \) of this piece. What fraction of the whole cake has Robert eaten?
+Choose the number sentence that would solve the word problem.",\( \frac{2}{3}-\frac{1}{3} \),i did 2 - 1 because i don’t need to find a common denominator because the denominators are the same,False_Neither,"true they are the same denominator, but not appropriate operation or super applicable",Wrong_Operation
+33474,"Sally has \( \frac{2}{3} \) of a whole cake in the fridge. Robert eats \( \frac{1}{3} \) of this piece. What fraction of the whole cake has Robert eaten?
+Choose the number sentence that would solve the word problem.",\( \frac{1}{3}+\frac{2}{3} \),i think this because two thirds is double one third,False_Neither,"true statement, but not appropriate operation or super applicable in this",Wrong_Operation
+33474,"Sally has \( \frac{2}{3} \) of a whole cake in the fridge. Robert eats \( \frac{1}{3} \) of this piece. What fraction of the whole cake has Robert eaten?
+Choose the number sentence that would solve the word problem.",\( \frac{2}{3}-\frac{1}{3} \),i think this because if you did the sum you got the answer,False_Neither,n/a explanation,
+33474,"Sally has \( \frac{2}{3} \) of a whole cake in the fridge. Robert eats \( \frac{1}{3} \) of this piece. What fraction of the whole cake has Robert eaten?
+Choose the number sentence that would solve the word problem.",\( \frac{2}{3}-\frac{1}{3} \),because sally had two thirds then robert ate one third of it,False_Neither,n/a explanation,
+33474,"Sally has \( \frac{2}{3} \) of a whole cake in the fridge. Robert eats \( \frac{1}{3} \) of this piece. What fraction of the whole cake has Robert eaten?
+Choose the number sentence that would solve the word problem.",\( \frac{2}{3}-\frac{1}{3} \),because 2/3 was the amount of cake at the start and hen he eats one third of it,False_Neither,conceptual error - one third of the two thirds is what was eaten ,
+76870,This is part of a regular polygon. How many sides does it have? [Image: A diagram showing an obtuse angle labelled 144 degrees],Not enough information,it divides into 360 and awnser is 2.5 so i suppose not enough info?,False_Neither,"360 / 144 is 2.5, thought then the shape ws 2.5 sided?",
+76870,This is part of a regular polygon. How many sides does it have? [Image: A diagram showing an obtuse angle labelled 144 degrees],\( 6 \),i was wrong and the answer is a,False_Neither,n/a explanation,
+76870,This is part of a regular polygon. How many sides does it have? [Image: A diagram showing an obtuse angle labelled 144 degrees],Not enough information,because you need to find the exterior angle.,False_Neither,not necessarily,
+76870,This is part of a regular polygon. How many sides does it have? [Image: A diagram showing an obtuse angle labelled 144 degrees],\( 5 \),it seems to make the most sense.,False_Neither,n/a explanation,
+76870,This is part of a regular polygon. How many sides does it have? [Image: A diagram showing an obtuse angle labelled 144 degrees],\( 5 \),because all angles are equal.,False_Neither,true all the interior angles are the same because it's a regular polygon,
+89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)",\( 3 \),i think its 3 but not sure. i was a bit confused with this in class,False_Neither,n/a explanation,
+89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)",\( -13 \),it is going up in minus,False_Neither,"""going up in minus"" could mean a few things - becoming more negative, going up the number line from left to right?",
+89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)",\( -13 \),apart from 3 which is smaller it is the only minus.,False_Neither,"i think they recognized that subtraction results in getting smaller, but not that it was getting less negative",
+89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)",\( -13 \),"if you add to something, it goes down in negatives, and take away goes up.",False_Neither,this would be the case if it were -8 + -5 (getting more negative). conceptual error - getting less negative (minus negative),
+89443,"What number belongs in the box?
+\(
+(-8)-(-5)=
+\square\)",\( -13 \),"Because when you solve it, that is the answer.",False_Neither,n/a explanation,
+91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 22 \),Because it goes in 3 and adds two.,False_Neither,actually correct the answer is 22,
+91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 22 \),it is adding 4 and the shape is changing,False_Neither,actually correct the answer is 22,
+91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 22 \),you add an extra dot at the bottom and don’t fill in the last two dots .,False_Neither,actually correct the answer is 22,
+91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 20 \),i a: very unsure as all these answers are wrong,False_Neither,n/a explanation,
+91695,"Dots have been arranged in these patterns: [Image: Pattern 1 consists of 6 dots, Pattern 2 consists of 10 dots, Pattern 3 consists of 14 dots and Pattern 4 consists of 18 dots] How many dots would there be in Pattern \( 6 \) ?",\( 20 \),"i know because the last pattern would have 6 rows and when i counted the dits inside, it said 6",False_Neither,n/a explanation,
+104665,"It takes \( 3 \) people a total of \( 192 \) hours to build a wall.
+
+How long would it take if \( 12 \) people built the same wall?",\( 192 \) hours,I'm not sure howw to do this and I don't know how you do it.,False_Neither,n/a explanation,
+104665,"It takes \( 3 \) people a total of \( 192 \) hours to build a wall.
+
+How long would it take if \( 12 \) people built the same wall?",\( 64 \) hours,12 x 64 divuded by 4 is,False_Neither,,
+104665,"It takes \( 3 \) people a total of \( 192 \) hours to build a wall.
+
+How long would it take if \( 12 \) people built the same wall?",\( 64 \) hours,they have 9 people more so you divide,False_Neither,"recognized that more people means dividing the work amongst more people, so each person does less work",
+104665,"It takes \( 3 \) people a total of \( 192 \) hours to build a wall.
+
+How long would it take if \( 12 \) people built the same wall?",\( 64 \) hours,as it cone to around 600 dicided by 5 gets you closest to that,False_Neither,n/a explanation,
+104665,"It takes \( 3 \) people a total of \( 192 \) hours to build a wall.
+
+How long would it take if \( 12 \) people built the same wall?",\( 768 \) hours,64 times 1 is 768 times 7 then you times by 12 which is 12 times 64.,False_Neither,found an equivalent fraction?,
+109465,"The probability of an event occurring is \( 0.9 \).
+
+Which of the following most accurately describes the likelihood of the event occurring?",Unlikely,"there is just a 1 in 10,000 chancee of this happening.",False_Neither,interpreting it as 0.9% as opposed to it actually being 90%,
+109465,"The probability of an event occurring is \( 0.9 \).
+
+Which of the following most accurately describes the likelihood of the event occurring?",Unlikely,since it is over 0 while the chances are unlikely but can hsppen rarely.,False_Neither,interpreting it as 0.9% as opposed to it actually being 90%,
+109465,"The probability of an event occurring is \( 0.9 \).
+
+Which of the following most accurately describes the likelihood of the event occurring?",Unlikely,because there’s 9 other numbers that you could get,False_Neither,n/a explanation,
+109465,"The probability of an event occurring is \( 0.9 \).
+
+Which of the following most accurately describes the likelihood of the event occurring?",Certain,I have no clue how to explain this another time,False_Neither,n/a explanation,
+109465,"The probability of an event occurring is \( 0.9 \).
+
+Which of the following most accurately describes the likelihood of the event occurring?",Unlikely,"1.0 is certainty, so if it is likely thatt must be a large number.",False_Neither,true in 1.0 being certain. did not account for 0.9 being super close to 1.0,

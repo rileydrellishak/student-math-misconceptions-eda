@@ -2,18 +2,23 @@
 Phase 1, Task 1: Load and Clean the Dataset
 MAP – Charting Student Math Misunderstandings
 =============================================
-Run from repo root: python clean_and_summarize.py
+Paths resolve from the repository root automatically.
 Outputs:
-  - data/train_clean.csv       cleaned dataset
-  - data/cleaning_summary.md   plain-language summary report
+    - data/initial_cleaning/train_clean.csv       cleaned dataset
+    - data/initial_cleaning/cleaning_summary.md   plain-language summary report
 """
 
 import pandas as pd
 import numpy as np
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = ROOT / "data"
+OUTPUT_DIR = DATA_DIR / "initial_cleaning"
 
 # ── 1. LOAD ──────────────────────────────────────────────────────────────────
 
-df = pd.read_csv("data/train.csv")
+df = pd.read_csv(DATA_DIR / "original_data" / "train.csv")
 
 report = []
 report.append("# Cleaning Summary Report\n")
@@ -156,15 +161,15 @@ if len(short_exp) > 0:
 
 # ── 12. SAVE OUTPUTS ─────────────────────────────────────────────────────
 
-df_clean.to_csv("data/train_clean.csv", index=False)
+df_clean.to_csv(OUTPUT_DIR / "train_clean.csv", index=False)
 
 summary_text = "\n".join(report)
-with open("data/cleaning_summary.md", "w") as f:
+with open(OUTPUT_DIR / "cleaning_summary.md", "w") as f:
     f.write(summary_text)
 
 print("✅ Done.")
-print(f"   Cleaned data  → data/train_clean.csv  ({df_clean.shape[0]:,} rows)")
-print(f"   Summary report → data/cleaning_summary.md")
+print(f"   Cleaned data  → data/initial_cleaning/train_clean.csv  ({df_clean.shape[0]:,} rows)")
+print(f"   Summary report → data/initial_cleaning/cleaning_summary.md")
 print("\n📋 Quick stats:")
 print(f"   Rows: {df_clean.shape[0]:,}")
 print(f"   Unique questions: {df_clean['QuestionId'].nunique():,}")

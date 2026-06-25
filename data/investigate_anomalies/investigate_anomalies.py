@@ -2,17 +2,22 @@
 Phase 1, Task 1 Follow-Up: Anomaly Investigation
 MAP – Charting Student Math Misunderstandings
 ==============================================
-Run from repo root: python investigate_anomalies.py
+Paths resolve from the repository root automatically.
 Outputs:
-  - data/misconception_labels.md        dedupe check on label taxonomy
-  - data/neither_sample.csv             stratified sample of Neither rows for educator review
-  - data/neither_sample_summary.md      plain-language briefing on Neither rows
+    - data/investigate_anomalies/misconception_labels.md        dedupe check on label taxonomy
+    - data/investigate_anomalies/neither_sample.csv             stratified sample of Neither rows for educator review
+    - data/investigate_anomalies/neither_sample_summary.md      plain-language briefing on Neither rows
 """
 
 import pandas as pd
 import numpy as np
+from pathlib import Path
 
-df = pd.read_csv("data/train_clean.csv")
+ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = ROOT / "data"
+OUTPUT_DIR = DATA_DIR / "investigate_anomalies"
+
+df = pd.read_csv(DATA_DIR / "initial_cleaning" / "train_clean.csv")
 
 # ── 1. MISCONCEPTION LABEL DEDUPE CHECK ──────────────────────────────────────
 
@@ -47,10 +52,10 @@ freq.columns = ["label", "count"]
 freq["pct_of_labeled"] = (freq["count"] / freq["count"].sum() * 100).round(1)
 report.append(freq.to_string(index=False) + "\n")
 
-with open("data/misconception_labels.md", "w") as f:
+with open(OUTPUT_DIR / "misconception_labels.md", "w") as f:
     f.write("\n".join(report))
 
-print("✅ Misconception label dedupe → data/misconception_labels.md")
+print("✅ Misconception label dedupe → data/investigate_anomalies/misconception_labels.md")
 
 # ── 2. NEITHER SAMPLE FOR EDUCATOR REVIEW ────────────────────────────────────
 
@@ -75,10 +80,10 @@ summary.append("\n## Most Common MC_Answers in False_Neither rows\n")
 false_neither_answers = neither[neither["Category"] == "False_Neither"]["MC_Answer"].value_counts().head(10)
 summary.append(false_neither_answers.to_string() + "\n")
 
-with open("data/neither_sample_summary.md", "w") as f:
+with open(OUTPUT_DIR / "neither_sample_summary.md", "w") as f:
     f.write("\n".join(summary))
 
-print("✅ Neither summary → data/neither_sample_summary.md")
+print("✅ Neither summary → data/investigate_anomalies/neither_sample_summary.md")
 
 # Stratified sample: 5 rows per question from False_Neither
 # Gives you a spread across all 15 questions rather than clustering on one
@@ -90,8 +95,8 @@ sample = pd.concat([
 
 # Keep only the columns useful for educator review — drop row_id noise
 sample_out = sample[["QuestionId", "QuestionText", "MC_Answer", "StudentExplanation", "Category"]].copy()
-sample_out.to_csv("data/neither_sample.csv", index=False)
+sample_out.to_csv(OUTPUT_DIR / "neither_sample.csv", index=False)
 
-print(f"✅ Neither sample ({len(sample_out)} rows) → data/neither_sample.csv")
+print(f"✅ Neither sample ({len(sample_out)} rows) → data/investigate_anomalies/neither_sample.csv")
 print(f"\n📋 Sample breakdown by question:")
 print(sample_out["QuestionId"].value_counts().sort_index().to_string())

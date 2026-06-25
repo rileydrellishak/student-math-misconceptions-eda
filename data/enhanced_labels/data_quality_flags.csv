@@ -1,0 +1,335 @@
+row_id,QuestionId,original_label,flag,MC_Answer,StudentExplanation
+32654,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),because for each pattern you addd 4.
+32655,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),"because for every sequence, it's plus 4."
+33072,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),"the pattern is +4, soz but i'm actually bored from counting"
+32490,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),As the nth number is +4 so patterm 5 would be 18+4=22
+32768,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),because youu add 4 after each pattern
+32512,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),"I believe the answer is four multiplied by five equals twenty, and if you add two it will equal 22."
+32965,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),"if you added up the dots from patturn 4 to the next pat turn you have 18, so for the other pattan just add four with 18 and you get the answere 22"
+32978,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),it adds on 4 every time
+32540,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),"If you want to add four, you should just multiply the first number by 4."
+33157,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),you add 4 every time so 18 plus 4 is 22.
+32639,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),because each time 4 dots are added.
+32731,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),because the sequence increases by 4
+32527,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),"I knew the next sequence would be 22 as the previous one was 18 so once I got the general progression of the pattern, it made things easier."
+32905,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),"i think that it is 22 because the sequence follows the expression 4n+2. therefore, the 5th term will go 4*5+2. this equation gives you the answer of 22."
+32710,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),because it’s increasing by 4 each time
+32630,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),because 4 is being added on so 18+4=22
+32668,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),because if you find out how much the diffrance in patten 3 and 4 you get 4 so then you would add 4 from 18 and get 22
+32624,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),bc there's 5 4 times so u do 5 x 4 and then add 2 because u go up 1 every time
+32531,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),I think this because the number of dots in each pattern increases by 4 every time.
+32870,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),i looked carefully and relised it was going up by 4 each time so i added 4 to patter 4 and got the answer 22
+32756,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),because you add 4 on each time
+32670,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),because in each pattern is goingg up by 4 each time so it is 22
+32394,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 20 \),because it goes up by 4 each time
+32684,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),because it adds up 4 more times
+32790,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),each one adds 4 to it
+32672,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),because in this one you are only adding 4 at a time.
+32882,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),i think because you can get the next pattern by multiplying by 4 and adding 2 eachh time
+33058,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),"the bottom row is increasing by 1 every time and another column of 3 is beimg added everytime, meaning you add 4."
+32550,91695,Wrong_term,Annotated as correct answer — original label likely erroneous,\( 22 \),It goes up by 4 each time you do it.
+10838,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),9 divided by 3 is equak to 3.
+10843,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),9 times 3 is 3 so then you get the answer.
+10869,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),Because 5x3 is 15 so 9 divided by 3 is 3
+10872,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),Because 9 divided by 3 equals three
+10896,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),Because you have to times 3 by 3 to get 9.
+10897,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),Because you need to times 3 x 5 to get 15
+10903,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),Becausee you need to times 3 x 5 to get 15.
+10923,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),I chose 3 because 9 divided by 3 is 3.
+10954,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),I know this because I did A out of 5 because 5 x 3 is 15 so 9 divided by 3 equals 3
+10967,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),I think it is 3 because 9 divided by 3=3.
+10973,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),I think it is because 9 divided by 3 is equal to three.
+10987,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),I think the answer is a because three times 3 =9 and three time 5 =15 which gives us the answers 9 over 15 and 9 times 3.
+11038,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),I think this is because at the denominator is 15 andd the other one is 10 i need to do 15 to ten which is divided by 3
+11040,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),I think this is because you can do 9 divided by 3
+11044,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),I think you have to find how many fives are in fifteen which is three the 9 divided by 3 which gives you the answer of 3.
+11071,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),It is a because you’d times 3by3 to get 9/15 so the answer would be 3.
+11105,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),"Well to get 15 to 10 you divide it by 3, so 9 divided by 3 = 3."
+11136,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),because 3 is times by 3 to get 9 and 10 times 3 is 15
+11149,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),because 5 times 3 is 15 so 3  times 3 is 9 which makes it 9/15
+11153,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),because 9 divided by 3 = equals three
+11154,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),because 9 divided by 3 = equals threee
+11177,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),because if you times 3by3 yuo will get 9
+11200,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),because you have to times 3 by 3 to get 9
+11213,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),i answered A because you times 3 by 3
+11248,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),i know this because i did a out of 5 because 5 x 3 is 15 so 9 divided by 3 equalss 3.
+11257,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),i think because if youu do 9 divided by 3 you get 3.
+11267,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),i think its a because 3 multiplied by 3 is 9
+11278,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),i think this because 15  times 2 is 30 then 10 times 3 is 30. 9 divided by 3 is 3
+11296,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),i think this because if you times 3 ans 10 it makes 15 so if you times 3 by 3 it is 9
+11300,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),i think this because you can do 9 divided by 3
+11313,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),i think this is the answer because 9 divided by 3 = 3
+11351,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),if you times 3by3 you will get 9.
+11363,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),it is because you wouldd times 3by3 to get 9/15 so the answer would be 3.
+11398,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),"when you divide 10 by 2, you get 5, which is 9/15 divided by 3."
+11404,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 3 \),you have to find how many fives aree in fifteen which is three the 9 divided by 3 which gives you the answer of 3.
+12644,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 6 \),9 can only be divided by 3 which gets you 3 so you have to divide 15 by 3 which is 5 the double it
+12750,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 6 \),Because 10 + 5 = 15 and 9 divided by 3 = 3 so 3 is the correct answer.
+13518,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 6 \),"If you take thee first term and multiply it by 3, you get the second term which is 6 divided by 3."
+14108,31778,Irrelevant,Q31778: explanation references correct scaling reasoning — may be mislabeled,\( 6 \),"if you do 9 divided by 3, that equals 3, and 3 x 2 = 6."
+32465,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),(season four) there aree 18 dots and you add 4 each time.
+32469,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),22 because it goes up in 4 each time
+32470,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),22 becausee it goes up by 4 each time.
+32471,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"22 bevause every time you add 4 dots going up, you put two more down."
+32479,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),4n+2 this is because four is the gap between each of the numbers therefore making the answerr 22.
+32485,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"Add 4. Here's an example. Suppose you want to create a term that starts with b, then you have three terms, each ending on the same letter. Then add 4 times this number to find your total number of terms."
+32489,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"As I said earlier there are 18 dots in pattern 4 and so if I add 4, i get 22."
+32493,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),Because every new pattern they add 4 each time.
+32501,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),Each time you sdd 4 more dots it creates a new pattern.
+32502,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"Every pattern adds 4, so if you added 4 it would make 22"
+32506,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),I am positive because they add 4 dots each time and theres 18 in pattern 4.
+32507,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),I answered d because the pattern said to add 4 and all patterns have 18 dots but only 22 when combined.
+32513,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"I believe thid because as the pattern number increases, it adds 4."
+32515,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),I chose D because in this pattern it is increasing by 4 every time.
+32525,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"I just added four to find the answer because i counted up 4 times each so yup, 4 counts up."
+32538,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),If you addd 3 on a stack then one more you will have 18+4=22.
+32544,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),In this chart p=6 in pattern 1 r=10 in circle 3p =14 in cycle 4p+4=18 it goes up in fours and 18 pluss 4 is 22.
+32551,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),It goes up by 4 each time.
+32560,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"Since 18 plus 4 is 22. So, the answer is 18."
+32564,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),So we addd four in of them 18+4 in total.
+32565,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"So, you keep adding 4 to the numbers for number 4 theress 18 and i added 4 got 22"
+32566,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),That is because the pattern goess up by 4.
+32570,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),The patternn 4 is 18 then add 4 it is 22
+32572,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"There are 8 dots on each line and every timee you add 4 more, the number of dots increases by 4."
+32575,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),There is another similarity that it increases by 4 and 18+4 is 22.
+32578,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"This is because each time yiu make a new pattern you add 4 to the previous pattern. When you combine like this, plus 6 onto your last creation (which was 18 dots), then you end up with 22 because that previous one had 18 dot."
+32581,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"This will add 4 to each side of thr square, so 18 + 4 = 22."
+32582,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"To addd 4 to the top of the number, do that each time you add 4."
+32589,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"You do this by multiplying 4 times 5, whichh is 20 + 2 = 22."
+32594,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),You onlyy add 4 more dots on the last row
+32599,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),add 4 each time wich is 22
+32600,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),add 4 each time wich is 22.
+32601,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),add 4 eavh time starting from 6 18 + 4 = 22
+32602,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),add 4 to the end of the last one and its 22
+32612,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),and the number of dots increases by 4 each time.
+32614,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"as every time they are adding another row of circles, and each row consists of 4 circles so you would just add another four circles onto pattern 4 which consists of 18 circles and 18+4=22"
+32616,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),as it’s a pattern and you add on 4 more
+32619,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"as you can see, they are putting 4 in the sequence each, time, if you count the dots in patturn 4 they have 18, in for the next patturn just plus 4 with 18 and you get the answere 22"
+32631,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because 4 is being added on so 18+4=22
+32635,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"because each one goes up by 4, so 18+4=22"
+32636,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because each one goes up in 4 so 18+4=22
+32642,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because each time it is adding 4 so the next one would be 5 times 4 and you have to add the extra 2 on the side and you get 22
+32643,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because each time you add 4
+32644,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"because each time you add 4 to the sequence, it gets bigger."
+32647,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because every new pattern they add 4 every time.
+32649,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because every time the number of dots increases by 4
+32650,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because every time you add 4
+32651,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because every time you add 4 it gets bigger.
+32652,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because every time you add 4 thrre is no limit.
+32653,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because for each pattern you add 4
+32656,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"because for every sequence, it's plus 4."
+32657,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because from my calculation i know it  goes in 4 so the last term that they given us is 18 so 18+4=22
+32662,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because i counts up 4 times each so i just added 4 to find the answer
+32669,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because in each pattern is going up in 4 each time so it is 22
+32671,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because in each pattern they add 4 that is why it is 22
+32674,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it adds 4 dots every timee
+32675,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it adds 4 each time.
+32676,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it adds 4 every time
+32677,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it adds 4 to it every time.
+32678,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it adds 4 to the number each time.
+32679,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it adds on 4 each and every time
+32681,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it adds on 4 every time
+32682,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it adds on 4 every time
+32690,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it goes up in 4 every time
+32696,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it increased by 4 each time so to get to the next one i just increased it by 4 again
+32697,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it increases by 4 each time
+32698,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it increases by 4 every time
+32701,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it is adding on 4 so 18 add 4 equals 22
+32703,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it is increasing by 4 every time.
+32708,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it’s adding 4 on it every time
+32709,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because it’s going up by 4 each time
+32711,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because on pattern 4 there are 18 dots and you add 4 each time
+32712,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the general term is 4n+2 which means pattern 5 would me (4(5)+2) which is 22.
+32713,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the general term is 4n+2 which means pattern 5 would me 4(5)+2 which is 22.
+32714,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the next number in the sequence is +4 and 18+4=22.
+32715,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the nth term is 4n+2
+32716,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the number of dots go up by 4 each time
+32717,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"because the pattern goes like 6, 10, 14, 18, if you continue it it would go like 22, 26, 30 ... the rule is to add 4 each term, i can verify this because there is a 4 difference between 6 and 10, and the same thing applies to 10-14 and 14-18."
+32718,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the pattern goes up by 4
+32719,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the pattern goes up by 4 each time
+32720,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the pattern goes up by 4 each time
+32722,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the pattern is every time you add 4
+32727,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the pattern is that the dots increase by 4 very time
+32729,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the rule is 4n+2 and 18 + 4 = 22 as the patterns are going up by 4
+32732,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the sequence is +4 and 18+4=22
+32733,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the term to term rule is +4
+32734,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because the term to term rule is add 4 so if you do 18 add 4 it's 22 so that's d
+32735,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because there adding 4 each time
+32741,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because they add 4 onto every one each time and the last one has 18 so you would add 4 to get 22.
+32744,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because they are adding 4 each time.
+32745,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because u add 4 every time
+32746,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because when you count it all up they just add 4 so add 4 to the end of the last one and its 22
+32749,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because you add 4 after each pattern
+32750,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because you add 4 every time
+32751,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because you add 4 every time
+32752,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because you add 4 every time
+32753,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because you add 4 every time
+32754,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"because you add 4 every time
+i added 4 to 18 and it gave me the answer 22"
+32758,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because you are adding 4 each time to the sequence.
+32760,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because you are just adding 4 more dots onto the last row
+32764,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),because you have to add 4 dots every time you go up a number
+32769,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),becausee each time you add 4
+32770,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),becausee it goes up by 4 every time
+32771,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),becausee it increases by 4 every time.
+32773,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),beccause it adds 4 each time
+32774,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),becsuse it adds 4 each time
+32775,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),becuase you do 4 times 5 which = 20 + 2 = 22
+32778,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),bevause the term to term rule is +4.
+32783,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),d is correct as itd being added by 4 each time and 18+4=22
+32784,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),d is correct as its being added by 4 each time and 18+4=22
+32787,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),each and every time you do it! so add 4
+32793,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),each onee adds 4 to it.
+32803,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),each time it increases by 4.
+32804,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),each time thatt number increases by 4.
+32805,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),each time the patterns add 4 dots therefore pattern 5 will have 22 dots
+32806,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),each time the patterns add 4 dots therefore pattern 5 will have 22 dots.
+32807,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"each time they are adding 4 on, the last one was 18 so 4+18=22"
+32808,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"each time theyy are adding 4 on, the last one was 18 so 4+18=22."
+32810,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"each time you add 3 dots, there will be 4 more dots added at the end."
+32811,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),each time you add 4 therefore pattern 4 has 18 dots therefore 18+4=22
+32813,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"each time, the dots  increase by 4"
+32818,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),every time they go up by 4
+32826,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"hence, the sequencr increases by 4."
+32837,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i answered d because the pattern was to add 4 and pattern 4 altogether had 18 dots and 18 plus 4 is equal to 22.
+32841,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i believe this is because the pattern is plus 4.
+32842,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i can see a pattern that they are adding on 4 each time
+32843,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i chose d because it adds four each time and 18 add 4 is 22.
+32846,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i chose d because the pattern is increasing by 4 every time
+32848,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i chose this because u add 4 to each one
+32871,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i looked closley and relised it is going up by 4 each time so i added 4 to patter 4 and got the answer 22
+32872,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i moticed it goes up by 4 each time
+32874,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i noticed it goes up by 4 each time
+32875,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"i picked d because with each pattern, you add 4."
+32876,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"i picked d because wuth each pattern, you add 4."
+32878,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i realized the pattern was going to add 4 dots every time and last one really had 20 dots so when I counted up wrong last question.
+32879,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i see a patternn that they are adding on 4 each time
+32881,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think  this because the pattern is adding 4 each time.
+32885,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think it is because the pattern is adding 4 each time.
+32886,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think it is d because it goes up in fours and 18 add 4 is 22.
+32887,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think it is d because the pattern is 4 times table plus 2
+32889,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think it is d cause the term goes into+4 again and 18 + 4 = 22
+32890,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"i think it is d. it goes up by fours, andd 18 plus 4 = 22."
+32893,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think its 22 because as you can see its a pattern and ur adding 4 dots
+32894,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think its 22 because as you can see its a pattern and your adding 4 dots.
+32900,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think pattern  5 is 22 because pattern three was 18 and every time you just add 4.
+32901,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think pattern 4 because you add 4 every time
+32902,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think pattern 5 is 22 because pattern three was 18 and every time you just add 4.
+32903,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think that is because you just add on 4 each time.
+32904,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"i think that it is 22 because the sequence follows the expression 4n+2. therefore, the 5th term will go 4*5+2 this equation gives you the answer of 22."
+32906,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"i think the answer is d because as you can see, the difference between pattern 1, 2, 3, and 4 have a difference of 4. therefore, pattern 5 should also have a difference of +4"
+32910,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this because all the numbers add on 4 each time therfore the last one has 18 so add another 4 equals 22
+32911,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this because as the pattern number increases it adds 4.
+32914,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this because every pattern adds 4 each time
+32917,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this because i know that the numbers are increasing by 4 each time so 18 add 4 is 22
+32925,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this because the number of dots in each pattern goes up by 4 every time.
+32926,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this because the pattern goes up by 4
+32927,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this because the pattern is plus 4
+32931,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this because they add 4 dots each time and theres 18 in pattern 4
+32932,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this because they add 4 to each number
+32934,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"i think this because using the nth term rule 4n+2 it would be 22 for example 4x1+2 = 6, 4x2+2 = 10, 4x3+2 = 6, 4x4+2 = 18 and therefore 4x5+2 = 22"
+32936,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this because when you make a new pattern you add 4 to the pattern and if you add for onto the last pattern gives you end up with 22 because the pattern before had 18 dots.
+32939,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this because you just add on 4 each time
+32940,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i think this becausee it goes up by 4 so i did 4+18=22
+32942,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"i think this is based on the fact that using the nth term rule 4n+2 it would be 22, for example 4x1+2, 4x2+8, 4xx3+10, 4ix4+8 and therefore 4y+6 = 22, (see my comment above)."
+32950,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i thinkk it is D cause the term goes into+4 again and 18 + 4 = 22
+32952,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),i thinkk this because each pattern adds 4 each time
+32975,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),in fact they go up by 4 eachh time
+32980,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goes up by 4 each time
+32981,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goes up by 4 each time
+32982,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goes up by 4 each time
+32983,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goes up by 4 each time youu do it.
+32984,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goes up by 4 each time.
+32985,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goes up by 4 eachtime
+32986,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goes up by 4 esch time so it will be higher than before.
+32987,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goes up by 4 every time
+32988,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goes up by 4 every time
+32989,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goes up by 4 everyy time.
+32990,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goes up in 4 and the last one is 18 so 18 +4=22
+32991,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it goesse up by 4 each time and 8+4=22
+32992,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it gosse up by 4 each time and 18+4=22
+32993,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it increased by 4 each time so to get to the next one I just increased it by another 4 times.
+32994,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it increases by 4 each time
+32995,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it increases by 4 each time
+32996,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it increases by 4 each time
+32997,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it increases by 4 each time
+32998,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it increases by 4 eachh time.
+33000,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it is 22 because every time yo add 4 dots going up you add two more down
+33002,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it is a d because the pattern repeats 4 times table plus 2.
+33005,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it is adding 4 and the shape is changing
+33006,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it is adding by 4 each time and if you add 4 to patter 4 you will bet 22 in pattern 5
+33012,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it is increasing by 4 each time and so if you add 4 to pattrrn 4 it will bet 22 in pattern 5.
+33013,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"it is probably pattern 4, because you add 4 every time."
+33014,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it is since the nth termm is 4n+2
+33018,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it starts at 6 and +4 every time
+33019,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it starts at 6 and every time after that its +4.
+33023,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it would be 22 because you add on 4 every time
+33024,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),it would be 22 d) becausee it goes up by 4.
+33028,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"its d because the difference between all diagrams is that 4 dots more were added and so pattern 4 has 18 dots and if i add 4, i get 22."
+33029,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),its increasing by 4 every time
+33036,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),my reasoning is 18 plus 4 is 22
+33038,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"pattern 1=6
+pattern 2=10
+pattern 3=14 
+pattern 4=18
+it goes up in fours and 18 add 4 is 22."
+33039,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),pattern 4 is 18 then add 4 is 22
+33042,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),so from my calculation i know it goes in 4 so the last term that they given us is 18 so 18+4=22
+33044,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"so if you do 18 plus 4 it's 22, so that'd"
+33045,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),so u addd 4 every time.
+33046,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),so we 18+4 in of them
+33047,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),so you keep adding 4 you for numbt 4 theres  18 and i added 4 got 22
+33051,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),starting from 6 keep adding 4 so then you get that
+33054,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),that this is a repeatable pattern and that all the dots increase by 4 every time.
+33057,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"the answer is d because as more patterns appear so does the amount of dots ,the dots increase by 4 each pattern meaning that at pattern 6 there will be 22 dots"
+33059,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the constant difference is 4 and on pattern 3 there’s 14 which means we have to add 4
+33060,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the formula for this pattern is 4n+2 this is because four is the gap between each of the numbers therefore making the answer 22
+33062,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the nth number is +4 so pattern 5 would be 18+4=22
+33063,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the nth term is 4n+2. pattern 5 is next. 4 x 5 + 2 = 22.
+33064,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the nth term is 4n-2 so when u substitute 6 into n you get the answer 22
+33065,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the number of dots increases by 4 each new pattern
+33066,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the number of dots increases by 4 each time
+33068,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the numbers add 4 esch time so the last number has 18 plus another 4 equals 22.
+33073,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the pattern is 4n+2 so it's 22.
+33074,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the pattern is add 4 each time starting from 6   18 + 4 = 22
+33076,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the pattern is plus 4 each time
+33077,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the pattern is plus 4 on each side.
+33078,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the pattern is where you add 3 on a stack and 1 more which  will have 18+4=22
+33080,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"the reason why we should add 4 to each term is because there is a four difference between 6 and 10, and the samee thing applies to 10-14 and 14-18."
+33081,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the sequence is +4 and the 4th figure has 18. 18+4=22.
+33083,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),the term to term rule is add 4
+33085,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),there are 12 in all because it adds 4 each time.
+33090,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),there is a new row of 4 each time you add another set of 4.
+33092,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),there is again a trend where it goes up by 4 and 18+4 is 22
+33095,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),there will be 22 total dots in this pattern because you add 4 more dots each time.
+33097,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),there would  be 22 because they add 4 in  every pattern so if you add 4 it would make 22
+33100,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),there would be 22 dots in pattern 6 because each time you add 4 dots to the pattern.
+33102,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),they add 4 dots each time
+33103,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),they add 4 every time so 18+4 is 22
+33104,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),they are adding 4 each time.
+33106,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),they are going up 4 each time
+33109,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),they aree going up 4 each time so far.
+33112,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),theyy go up by 4s so 4 after 18 is 22.
+33120,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),this is because you add 4 each time.
+33123,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"this is due to the fact that each successive indent increases by 4, 18 + 4 = 22."
+33127,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"this means that since each side is going up by 4, there is a total of 4x+2 and 18 + 4 = 22 because the rules says 4n+2, and in this case, it would be +4."
+33128,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),this one is going up by 4 each time so keep counting until you get to the 6 pattern
+33132,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),this pattern is repeated 4 times because each dot is the result of 3 dots plus the previous one.
+33133,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"thr pattern is +4, soz, I'm actually bored from counting."
+33138,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),using the patterns it adds 4 each time so for 6 is would be 4×5=20+2=22
+33139,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),we are adding 4 every time.
+33144,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"when a pattern repeats itself, it goes up by 4."
+33145,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"when the sequencee begins with a 4th term, you add 4."
+33149,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),while eavh new pattern increases by 4 the number of dots increases
+33154,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),you add 4 dots on every time
+33155,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),you add 4 each time
+33158,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),you add 4 every time so if you have 18 plus 4 then it is 22.
+33159,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),you add 4 from the 4th term in the sequence
+33165,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),you are adding 4 dots every time
+33166,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),you are adding 4 dots on each side.
+33167,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"you are adding 4 each time, pattern 4 has 18 dots therefore 18+4=22"
+33170,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),"you can add 4 to each number,"
+33172,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),you have to add 4 each time and 18 + 4 is 22
+33173,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),you have to add 4 each time so for 6 it would be 45=20+2=22.
+33176,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),you need to add 4 so 18 plus 4 equals 22
+33181,91695,Wrong_term,Q91695: MC=22 with correct +4 pattern reasoning — likely True_Correct mislabeled as Wrong_term,\( 22 \),youu add 4 dots on every time you do this.
